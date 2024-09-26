@@ -38,3 +38,5 @@
 *.elf
 *.hex
 *.s~
+/Lab-02-starter/firmware/Lab-02-starter.X/dist/
+/Lab-02-starter/firmware/Lab-02-starter.X/build/
